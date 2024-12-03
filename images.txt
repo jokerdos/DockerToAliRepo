@@ -13,5 +13,5 @@
 #acgpiano/sqli-labs
 #mysql:5.7
 #phpmyadmin:5.2.1
-php:7.2-apache
-
+#php:7.2-apache
+c0ny1/upload-labs
