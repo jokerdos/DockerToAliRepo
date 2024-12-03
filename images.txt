@@ -11,5 +11,6 @@
 #kubesphere/ks-installer:v3.4.1
 #sagikazarmark/dvwa
 #acgpiano/sqli-labs
-mysql:5.7
+#mysql:5.7
+phpmyadmin:5.2.1
 
