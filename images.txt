@@ -1,4 +1,4 @@
-#redis:7.4.1
+redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
@@ -15,4 +15,4 @@
 #phpmyadmin:5.2.1
 #php:7.2-apache
 #c0ny1/upload-labs
-linode/lamp
+#linode/lamp
