@@ -15,4 +15,4 @@
 #phpmyadmin:5.2.1
 #php:7.2-apache
 #c0ny1/upload-labs
-linode/lamp
+thinkphp:5.1.22
