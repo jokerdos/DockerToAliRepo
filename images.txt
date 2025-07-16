@@ -15,4 +15,5 @@
 #phpmyadmin:5.2.1
 #php:7.2-apache
 #c0ny1/upload-labs
-vulhub/in-sqlinjection
+vulhub/thinkphp:5.0.9
+mysql:5.5
