@@ -17,4 +17,5 @@
 #c0ny1/upload-labs
 #vulhub/thinkphp:5.0.9
 #mysql:5.5
-vulhub/oracle:12c-ee
+#vulhub/oracle:12c-ee
+centos:7.9.2009
