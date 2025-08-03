@@ -18,4 +18,5 @@
 #vulhub/thinkphp:5.0.9
 #mysql:5.5
 #vulhub/oracle:12c-ee
-centos:7.9.2009
+#centos:7.9.2009
+shiro:1.2.4
